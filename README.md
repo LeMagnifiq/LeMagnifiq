@@ -36,7 +36,3 @@ Here are some highlights from my work:
 * Constructed efficient real-time reporting infrastructure that eliminated monthly hours of manual reporting using Excel Macros, Pivot tables, and LOOKUP functions.
 * Evaluated the performance of business products by identifying trends leading to a rise in monthly, quarterly, and yearly targets from 2X to 4X.
 * Produced reports on Excel to identify clients likely to require future service or renewal, providing insight to Customer Success teams, thereby increasing revenue by 35% and reducing churn by 20%.
-
----
-
-Feel free to adjust the template as needed. I hope this helps, and let me know if you need any further assistance!
