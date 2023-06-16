@@ -16,9 +16,9 @@ I'm a Data Scientist/Data Analyst with a deep-seated passion for all things Data
 👉 Check out my Tableau Public profile: [Suleyman Yahaya](https://public.tableau.com/app/profile/suleyman.yahaya)
 
 ## My GitHub stats
-```markdown
-![Suleyman Yahaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeMagnifiq&show_icons=true&theme=tokyonight)
-```
+
+[Suleyman Yahaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeMagnifiq&show_icons=true&theme=tokyonight)
+
 
 ## Languages and Tools
 I use the following programming languages and tools on a regular basis:
