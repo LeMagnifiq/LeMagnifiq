@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Suleyman Yahaya!
 
-I'm a Data Scientist/Data Analyst with a deep-seated passion for all things Data Science, including AI, Machine Learning, and Analytics. My technical skillset includes proficiency in a range of tools such as Business Intelligence Tools, ML notebooks, and ML Libraries.
-
+I'm a Data Scientist/Data Analyst with a deep-seated passion for all things Data Science, including AI, Machine Learning, and Analytics. 
 ## About me
-🔭 I'm constantly working on improving my data science skills, applying them to solve real-world problems.
+🔭 I'm constantly working on improving my data science skills, and applying them to solve real-world problems.
 
 🌱 I'm currently expanding my knowledge in every aspect of Data Science to better equip myself in this rapidly advancing field.
 
@@ -24,7 +23,10 @@ I'm a Data Scientist/Data Analyst with a deep-seated passion for all things Data
 ## Languages and Tools
 I use the following programming languages and tools on a regular basis:
 * Python
+* R
 * Tableau
+* Microsoft Power BI
+* Salesforce
 * Microsoft Excel
 
 ## Recent Projects
