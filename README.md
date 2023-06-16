@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Suleyman Yahaya!
 
-I'm a Data Scientist/Data Analyst with a deep-seated passion for all things Data Science, including AI, Machine Learning, and Analytics. 
+I'm a dedicated Data scientist/data analyst with a profound interest in Data Science, Machine Learning, and Analytics. I've honed my skills in Python, R, and SQL, and have hands-on experience with machine learning frameworks like TensorFlow and PyTorch.
+
+
 ## About me
 🔭 I'm constantly working on improving my data science skills, and applying them to solve real-world problems.
 
